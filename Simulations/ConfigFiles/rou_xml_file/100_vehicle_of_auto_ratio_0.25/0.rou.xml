@@ -1,0 +1,464 @@
+<routers>
+	<vType id="man_9.26_4.5_3.8" accel="9.260000" decel="4.500000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_9.26_4.5_4.2" accel="9.260000" decel="4.500000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_9.26_4.5_4.6" accel="9.260000" decel="4.500000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_9.26_4.5_5.0" accel="9.260000" decel="4.500000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_9.26_4.5_5.4" accel="9.260000" decel="4.500000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_9.26_4.9_3.8" accel="9.260000" decel="4.900000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_9.26_4.9_4.2" accel="9.260000" decel="4.900000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_9.26_4.9_4.6" accel="9.260000" decel="4.900000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_9.26_4.9_5.0" accel="9.260000" decel="4.900000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_9.26_4.9_5.4" accel="9.260000" decel="4.900000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_9.26_5.3_3.8" accel="9.260000" decel="5.300000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_9.26_5.3_4.2" accel="9.260000" decel="5.300000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_9.26_5.3_4.6" accel="9.260000" decel="5.300000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_9.26_5.3_5.0" accel="9.260000" decel="5.300000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_9.26_5.3_5.4" accel="9.260000" decel="5.300000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_9.26_4.7_3.8" accel="9.260000" decel="4.700000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_9.26_4.7_4.2" accel="9.260000" decel="4.700000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_9.26_4.7_4.6" accel="9.260000" decel="4.700000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_9.26_4.7_5.0" accel="9.260000" decel="4.700000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_9.26_4.7_5.4" accel="9.260000" decel="4.700000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_9.26_5.9_3.8" accel="9.260000" decel="5.900000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_9.26_5.9_4.2" accel="9.260000" decel="5.900000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_9.26_5.9_4.6" accel="9.260000" decel="5.900000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_9.26_5.9_5.0" accel="9.260000" decel="5.900000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_9.26_5.9_5.4" accel="9.260000" decel="5.900000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_4.5_3.8" accel="5.560000" decel="4.500000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_4.5_4.2" accel="5.560000" decel="4.500000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_4.5_4.6" accel="5.560000" decel="4.500000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_4.5_5.0" accel="5.560000" decel="4.500000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_4.5_5.4" accel="5.560000" decel="4.500000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_4.9_3.8" accel="5.560000" decel="4.900000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_4.9_4.2" accel="5.560000" decel="4.900000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_4.9_4.6" accel="5.560000" decel="4.900000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_4.9_5.0" accel="5.560000" decel="4.900000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_4.9_5.4" accel="5.560000" decel="4.900000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_5.3_3.8" accel="5.560000" decel="5.300000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_5.3_4.2" accel="5.560000" decel="5.300000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_5.3_4.6" accel="5.560000" decel="5.300000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_5.3_5.0" accel="5.560000" decel="5.300000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_5.3_5.4" accel="5.560000" decel="5.300000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_4.7_3.8" accel="5.560000" decel="4.700000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_4.7_4.2" accel="5.560000" decel="4.700000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_4.7_4.6" accel="5.560000" decel="4.700000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_4.7_5.0" accel="5.560000" decel="4.700000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_4.7_5.4" accel="5.560000" decel="4.700000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_5.9_3.8" accel="5.560000" decel="5.900000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_5.9_4.2" accel="5.560000" decel="5.900000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_5.9_4.6" accel="5.560000" decel="5.900000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_5.9_5.0" accel="5.560000" decel="5.900000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_5.56_5.9_5.4" accel="5.560000" decel="5.900000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_4.5_3.8" accel="3.960000" decel="4.500000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_4.5_4.2" accel="3.960000" decel="4.500000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_4.5_4.6" accel="3.960000" decel="4.500000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_4.5_5.0" accel="3.960000" decel="4.500000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_4.5_5.4" accel="3.960000" decel="4.500000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_4.9_3.8" accel="3.960000" decel="4.900000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_4.9_4.2" accel="3.960000" decel="4.900000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_4.9_4.6" accel="3.960000" decel="4.900000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_4.9_5.0" accel="3.960000" decel="4.900000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_4.9_5.4" accel="3.960000" decel="4.900000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_5.3_3.8" accel="3.960000" decel="5.300000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_5.3_4.2" accel="3.960000" decel="5.300000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_5.3_4.6" accel="3.960000" decel="5.300000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_5.3_5.0" accel="3.960000" decel="5.300000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_5.3_5.4" accel="3.960000" decel="5.300000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_4.7_3.8" accel="3.960000" decel="4.700000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_4.7_4.2" accel="3.960000" decel="4.700000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_4.7_4.6" accel="3.960000" decel="4.700000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_4.7_5.0" accel="3.960000" decel="4.700000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_4.7_5.4" accel="3.960000" decel="4.700000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_5.9_3.8" accel="3.960000" decel="5.900000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_5.9_4.2" accel="3.960000" decel="5.900000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_5.9_4.6" accel="3.960000" decel="5.900000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_5.9_5.0" accel="3.960000" decel="5.900000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.96_5.9_5.4" accel="3.960000" decel="5.900000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_4.5_3.8" accel="3.090000" decel="4.500000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_4.5_4.2" accel="3.090000" decel="4.500000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_4.5_4.6" accel="3.090000" decel="4.500000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_4.5_5.0" accel="3.090000" decel="4.500000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_4.5_5.4" accel="3.090000" decel="4.500000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_4.9_3.8" accel="3.090000" decel="4.900000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_4.9_4.2" accel="3.090000" decel="4.900000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_4.9_4.6" accel="3.090000" decel="4.900000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_4.9_5.0" accel="3.090000" decel="4.900000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_4.9_5.4" accel="3.090000" decel="4.900000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_5.3_3.8" accel="3.090000" decel="5.300000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_5.3_4.2" accel="3.090000" decel="5.300000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_5.3_4.6" accel="3.090000" decel="5.300000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_5.3_5.0" accel="3.090000" decel="5.300000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_5.3_5.4" accel="3.090000" decel="5.300000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_4.7_3.8" accel="3.090000" decel="4.700000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_4.7_4.2" accel="3.090000" decel="4.700000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_4.7_4.6" accel="3.090000" decel="4.700000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_4.7_5.0" accel="3.090000" decel="4.700000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_4.7_5.4" accel="3.090000" decel="4.700000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_5.9_3.8" accel="3.090000" decel="5.900000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_5.9_4.2" accel="3.090000" decel="5.900000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_5.9_4.6" accel="3.090000" decel="5.900000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_5.9_5.0" accel="3.090000" decel="5.900000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_3.09_5.9_5.4" accel="3.090000" decel="5.900000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_4.5_3.8" accel="2.530000" decel="4.500000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_4.5_4.2" accel="2.530000" decel="4.500000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_4.5_4.6" accel="2.530000" decel="4.500000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_4.5_5.0" accel="2.530000" decel="4.500000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_4.5_5.4" accel="2.530000" decel="4.500000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_4.9_3.8" accel="2.530000" decel="4.900000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_4.9_4.2" accel="2.530000" decel="4.900000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_4.9_4.6" accel="2.530000" decel="4.900000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_4.9_5.0" accel="2.530000" decel="4.900000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_4.9_5.4" accel="2.530000" decel="4.900000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_5.3_3.8" accel="2.530000" decel="5.300000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_5.3_4.2" accel="2.530000" decel="5.300000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_5.3_4.6" accel="2.530000" decel="5.300000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_5.3_5.0" accel="2.530000" decel="5.300000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_5.3_5.4" accel="2.530000" decel="5.300000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_4.7_3.8" accel="2.530000" decel="4.700000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_4.7_4.2" accel="2.530000" decel="4.700000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_4.7_4.6" accel="2.530000" decel="4.700000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_4.7_5.0" accel="2.530000" decel="4.700000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_4.7_5.4" accel="2.530000" decel="4.700000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_5.9_3.8" accel="2.530000" decel="5.900000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_5.9_4.2" accel="2.530000" decel="5.900000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_5.9_4.6" accel="2.530000" decel="5.900000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_5.9_5.0" accel="2.530000" decel="5.900000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.53_5.9_5.4" accel="2.530000" decel="5.900000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_4.5_3.8" accel="2.140000" decel="4.500000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_4.5_4.2" accel="2.140000" decel="4.500000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_4.5_4.6" accel="2.140000" decel="4.500000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_4.5_5.0" accel="2.140000" decel="4.500000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_4.5_5.4" accel="2.140000" decel="4.500000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_4.9_3.8" accel="2.140000" decel="4.900000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_4.9_4.2" accel="2.140000" decel="4.900000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_4.9_4.6" accel="2.140000" decel="4.900000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_4.9_5.0" accel="2.140000" decel="4.900000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_4.9_5.4" accel="2.140000" decel="4.900000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_5.3_3.8" accel="2.140000" decel="5.300000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_5.3_4.2" accel="2.140000" decel="5.300000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_5.3_4.6" accel="2.140000" decel="5.300000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_5.3_5.0" accel="2.140000" decel="5.300000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_5.3_5.4" accel="2.140000" decel="5.300000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_4.7_3.8" accel="2.140000" decel="4.700000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_4.7_4.2" accel="2.140000" decel="4.700000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_4.7_4.6" accel="2.140000" decel="4.700000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_4.7_5.0" accel="2.140000" decel="4.700000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_4.7_5.4" accel="2.140000" decel="4.700000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_5.9_3.8" accel="2.140000" decel="5.900000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_5.9_4.2" accel="2.140000" decel="5.900000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_5.9_4.6" accel="2.140000" decel="5.900000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_5.9_5.0" accel="2.140000" decel="5.900000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_2.14_5.9_5.4" accel="2.140000" decel="5.900000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_4.5_3.8" accel="1.850000" decel="4.500000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_4.5_4.2" accel="1.850000" decel="4.500000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_4.5_4.6" accel="1.850000" decel="4.500000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_4.5_5.0" accel="1.850000" decel="4.500000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_4.5_5.4" accel="1.850000" decel="4.500000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_4.9_3.8" accel="1.850000" decel="4.900000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_4.9_4.2" accel="1.850000" decel="4.900000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_4.9_4.6" accel="1.850000" decel="4.900000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_4.9_5.0" accel="1.850000" decel="4.900000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_4.9_5.4" accel="1.850000" decel="4.900000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_5.3_3.8" accel="1.850000" decel="5.300000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_5.3_4.2" accel="1.850000" decel="5.300000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_5.3_4.6" accel="1.850000" decel="5.300000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_5.3_5.0" accel="1.850000" decel="5.300000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_5.3_5.4" accel="1.850000" decel="5.300000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_4.7_3.8" accel="1.850000" decel="4.700000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_4.7_4.2" accel="1.850000" decel="4.700000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_4.7_4.6" accel="1.850000" decel="4.700000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_4.7_5.0" accel="1.850000" decel="4.700000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_4.7_5.4" accel="1.850000" decel="4.700000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_5.9_3.8" accel="1.850000" decel="5.900000" length="3.800000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_5.9_4.2" accel="1.850000" decel="5.900000" length="4.200000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_5.9_4.6" accel="1.850000" decel="5.900000" length="4.600000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_5.9_5.0" accel="1.850000" decel="5.900000" length="5.000000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="man_1.85_5.9_5.4" accel="1.850000" decel="5.900000" length="5.400000" carFollowModel="Krauss" maxSpeed="22.220000" color="0,0,1" />
+	<vType id="auto_9.26_4.5_3.8" accel="9.260000" decel="4.500000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_9.26_4.5_4.2" accel="9.260000" decel="4.500000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_9.26_4.5_4.6" accel="9.260000" decel="4.500000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_9.26_4.5_5.0" accel="9.260000" decel="4.500000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_9.26_4.5_5.4" accel="9.260000" decel="4.500000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_9.26_4.9_3.8" accel="9.260000" decel="4.900000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_9.26_4.9_4.2" accel="9.260000" decel="4.900000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_9.26_4.9_4.6" accel="9.260000" decel="4.900000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_9.26_4.9_5.0" accel="9.260000" decel="4.900000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_9.26_4.9_5.4" accel="9.260000" decel="4.900000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_9.26_5.3_3.8" accel="9.260000" decel="5.300000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_9.26_5.3_4.2" accel="9.260000" decel="5.300000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_9.26_5.3_4.6" accel="9.260000" decel="5.300000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_9.26_5.3_5.0" accel="9.260000" decel="5.300000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_9.26_5.3_5.4" accel="9.260000" decel="5.300000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_9.26_4.7_3.8" accel="9.260000" decel="4.700000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_9.26_4.7_4.2" accel="9.260000" decel="4.700000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_9.26_4.7_4.6" accel="9.260000" decel="4.700000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_9.26_4.7_5.0" accel="9.260000" decel="4.700000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_9.26_4.7_5.4" accel="9.260000" decel="4.700000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_9.26_5.9_3.8" accel="9.260000" decel="5.900000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_9.26_5.9_4.2" accel="9.260000" decel="5.900000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_9.26_5.9_4.6" accel="9.260000" decel="5.900000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_9.26_5.9_5.0" accel="9.260000" decel="5.900000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_9.26_5.9_5.4" accel="9.260000" decel="5.900000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_4.5_3.8" accel="5.560000" decel="4.500000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_4.5_4.2" accel="5.560000" decel="4.500000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_4.5_4.6" accel="5.560000" decel="4.500000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_4.5_5.0" accel="5.560000" decel="4.500000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_4.5_5.4" accel="5.560000" decel="4.500000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_4.9_3.8" accel="5.560000" decel="4.900000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_4.9_4.2" accel="5.560000" decel="4.900000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_4.9_4.6" accel="5.560000" decel="4.900000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_4.9_5.0" accel="5.560000" decel="4.900000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_4.9_5.4" accel="5.560000" decel="4.900000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_5.3_3.8" accel="5.560000" decel="5.300000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_5.3_4.2" accel="5.560000" decel="5.300000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_5.3_4.6" accel="5.560000" decel="5.300000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_5.3_5.0" accel="5.560000" decel="5.300000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_5.3_5.4" accel="5.560000" decel="5.300000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_4.7_3.8" accel="5.560000" decel="4.700000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_4.7_4.2" accel="5.560000" decel="4.700000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_4.7_4.6" accel="5.560000" decel="4.700000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_4.7_5.0" accel="5.560000" decel="4.700000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_4.7_5.4" accel="5.560000" decel="4.700000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_5.9_3.8" accel="5.560000" decel="5.900000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_5.9_4.2" accel="5.560000" decel="5.900000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_5.9_4.6" accel="5.560000" decel="5.900000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_5.9_5.0" accel="5.560000" decel="5.900000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_5.56_5.9_5.4" accel="5.560000" decel="5.900000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_4.5_3.8" accel="3.960000" decel="4.500000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_4.5_4.2" accel="3.960000" decel="4.500000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_4.5_4.6" accel="3.960000" decel="4.500000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_4.5_5.0" accel="3.960000" decel="4.500000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_4.5_5.4" accel="3.960000" decel="4.500000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_4.9_3.8" accel="3.960000" decel="4.900000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_4.9_4.2" accel="3.960000" decel="4.900000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_4.9_4.6" accel="3.960000" decel="4.900000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_4.9_5.0" accel="3.960000" decel="4.900000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_4.9_5.4" accel="3.960000" decel="4.900000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_5.3_3.8" accel="3.960000" decel="5.300000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_5.3_4.2" accel="3.960000" decel="5.300000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_5.3_4.6" accel="3.960000" decel="5.300000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_5.3_5.0" accel="3.960000" decel="5.300000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_5.3_5.4" accel="3.960000" decel="5.300000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_4.7_3.8" accel="3.960000" decel="4.700000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_4.7_4.2" accel="3.960000" decel="4.700000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_4.7_4.6" accel="3.960000" decel="4.700000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_4.7_5.0" accel="3.960000" decel="4.700000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_4.7_5.4" accel="3.960000" decel="4.700000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_5.9_3.8" accel="3.960000" decel="5.900000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_5.9_4.2" accel="3.960000" decel="5.900000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_5.9_4.6" accel="3.960000" decel="5.900000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_5.9_5.0" accel="3.960000" decel="5.900000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.96_5.9_5.4" accel="3.960000" decel="5.900000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_4.5_3.8" accel="3.090000" decel="4.500000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_4.5_4.2" accel="3.090000" decel="4.500000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_4.5_4.6" accel="3.090000" decel="4.500000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_4.5_5.0" accel="3.090000" decel="4.500000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_4.5_5.4" accel="3.090000" decel="4.500000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_4.9_3.8" accel="3.090000" decel="4.900000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_4.9_4.2" accel="3.090000" decel="4.900000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_4.9_4.6" accel="3.090000" decel="4.900000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_4.9_5.0" accel="3.090000" decel="4.900000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_4.9_5.4" accel="3.090000" decel="4.900000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_5.3_3.8" accel="3.090000" decel="5.300000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_5.3_4.2" accel="3.090000" decel="5.300000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_5.3_4.6" accel="3.090000" decel="5.300000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_5.3_5.0" accel="3.090000" decel="5.300000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_5.3_5.4" accel="3.090000" decel="5.300000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_4.7_3.8" accel="3.090000" decel="4.700000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_4.7_4.2" accel="3.090000" decel="4.700000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_4.7_4.6" accel="3.090000" decel="4.700000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_4.7_5.0" accel="3.090000" decel="4.700000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_4.7_5.4" accel="3.090000" decel="4.700000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_5.9_3.8" accel="3.090000" decel="5.900000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_5.9_4.2" accel="3.090000" decel="5.900000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_5.9_4.6" accel="3.090000" decel="5.900000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_5.9_5.0" accel="3.090000" decel="5.900000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_3.09_5.9_5.4" accel="3.090000" decel="5.900000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_4.5_3.8" accel="2.530000" decel="4.500000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_4.5_4.2" accel="2.530000" decel="4.500000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_4.5_4.6" accel="2.530000" decel="4.500000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_4.5_5.0" accel="2.530000" decel="4.500000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_4.5_5.4" accel="2.530000" decel="4.500000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_4.9_3.8" accel="2.530000" decel="4.900000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_4.9_4.2" accel="2.530000" decel="4.900000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_4.9_4.6" accel="2.530000" decel="4.900000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_4.9_5.0" accel="2.530000" decel="4.900000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_4.9_5.4" accel="2.530000" decel="4.900000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_5.3_3.8" accel="2.530000" decel="5.300000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_5.3_4.2" accel="2.530000" decel="5.300000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_5.3_4.6" accel="2.530000" decel="5.300000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_5.3_5.0" accel="2.530000" decel="5.300000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_5.3_5.4" accel="2.530000" decel="5.300000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_4.7_3.8" accel="2.530000" decel="4.700000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_4.7_4.2" accel="2.530000" decel="4.700000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_4.7_4.6" accel="2.530000" decel="4.700000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_4.7_5.0" accel="2.530000" decel="4.700000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_4.7_5.4" accel="2.530000" decel="4.700000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_5.9_3.8" accel="2.530000" decel="5.900000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_5.9_4.2" accel="2.530000" decel="5.900000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_5.9_4.6" accel="2.530000" decel="5.900000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_5.9_5.0" accel="2.530000" decel="5.900000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.53_5.9_5.4" accel="2.530000" decel="5.900000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_4.5_3.8" accel="2.140000" decel="4.500000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_4.5_4.2" accel="2.140000" decel="4.500000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_4.5_4.6" accel="2.140000" decel="4.500000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_4.5_5.0" accel="2.140000" decel="4.500000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_4.5_5.4" accel="2.140000" decel="4.500000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_4.9_3.8" accel="2.140000" decel="4.900000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_4.9_4.2" accel="2.140000" decel="4.900000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_4.9_4.6" accel="2.140000" decel="4.900000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_4.9_5.0" accel="2.140000" decel="4.900000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_4.9_5.4" accel="2.140000" decel="4.900000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_5.3_3.8" accel="2.140000" decel="5.300000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_5.3_4.2" accel="2.140000" decel="5.300000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_5.3_4.6" accel="2.140000" decel="5.300000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_5.3_5.0" accel="2.140000" decel="5.300000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_5.3_5.4" accel="2.140000" decel="5.300000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_4.7_3.8" accel="2.140000" decel="4.700000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_4.7_4.2" accel="2.140000" decel="4.700000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_4.7_4.6" accel="2.140000" decel="4.700000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_4.7_5.0" accel="2.140000" decel="4.700000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_4.7_5.4" accel="2.140000" decel="4.700000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_5.9_3.8" accel="2.140000" decel="5.900000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_5.9_4.2" accel="2.140000" decel="5.900000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_5.9_4.6" accel="2.140000" decel="5.900000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_5.9_5.0" accel="2.140000" decel="5.900000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_2.14_5.9_5.4" accel="2.140000" decel="5.900000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_4.5_3.8" accel="1.850000" decel="4.500000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_4.5_4.2" accel="1.850000" decel="4.500000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_4.5_4.6" accel="1.850000" decel="4.500000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_4.5_5.0" accel="1.850000" decel="4.500000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_4.5_5.4" accel="1.850000" decel="4.500000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_4.9_3.8" accel="1.850000" decel="4.900000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_4.9_4.2" accel="1.850000" decel="4.900000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_4.9_4.6" accel="1.850000" decel="4.900000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_4.9_5.0" accel="1.850000" decel="4.900000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_4.9_5.4" accel="1.850000" decel="4.900000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_5.3_3.8" accel="1.850000" decel="5.300000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_5.3_4.2" accel="1.850000" decel="5.300000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_5.3_4.6" accel="1.850000" decel="5.300000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_5.3_5.0" accel="1.850000" decel="5.300000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_5.3_5.4" accel="1.850000" decel="5.300000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_4.7_3.8" accel="1.850000" decel="4.700000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_4.7_4.2" accel="1.850000" decel="4.700000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_4.7_4.6" accel="1.850000" decel="4.700000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_4.7_5.0" accel="1.850000" decel="4.700000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_4.7_5.4" accel="1.850000" decel="4.700000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_5.9_3.8" accel="1.850000" decel="5.900000" length="3.800000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_5.9_4.2" accel="1.850000" decel="5.900000" length="4.200000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_5.9_4.6" accel="1.850000" decel="5.900000" length="4.600000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_5.9_5.0" accel="1.850000" decel="5.900000" length="5.000000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<vType id="auto_1.85_5.9_5.4" accel="1.850000" decel="5.900000" length="5.400000" carFollowModel="CACC" maxSpeed="22.220000" color="1,1,1" />
+	<route id="r1_r6" edges="r1 r6" />
+	<route id="r1_r5" edges="r1 r5" />
+	<route id="r1_r7" edges="r1 r7" />
+	<route id="r2_r7" edges="r2 r7" />
+	<route id="r2_r6" edges="r2 r6" />
+	<route id="r2_r8" edges="r2 r8" />
+	<route id="r3_r8" edges="r3 r8" />
+	<route id="r3_r7" edges="r3 r7" />
+	<route id="r3_r5" edges="r3 r5" />
+	<route id="r4_r5" edges="r4 r5" />
+	<route id="r4_r8" edges="r4 r8" />
+	<route id="r4_r6" edges="r4 r6" />
+		<vehicle id="0" type="auto_3.96_4.7_5.4" route="r3_r8" depart="0" />
+		<vehicle id="1" type="man_3.09_5.9_4.6" route="r1_r5" depart="1" />
+		<vehicle id="2" type="man_3.96_5.3_4.6" route="r3_r7" depart="4" />
+		<vehicle id="3" type="auto_3.96_5.3_5.0" route="r2_r6" depart="4" />
+		<vehicle id="4" type="man_3.96_5.9_4.6" route="r2_r8" depart="7" />
+		<vehicle id="5" type="man_2.53_4.7_5.0" route="r3_r5" depart="8" />
+		<vehicle id="6" type="auto_2.14_5.3_5.0" route="r2_r7" depart="8" />
+		<vehicle id="7" type="man_3.09_4.9_4.6" route="r1_r6" depart="9" />
+		<vehicle id="8" type="man_2.53_5.3_4.6" route="r2_r7" depart="10" />
+		<vehicle id="9" type="man_3.96_5.3_4.2" route="r1_r6" depart="10" />
+		<vehicle id="10" type="man_3.96_5.9_4.6" route="r3_r5" depart="11" />
+		<vehicle id="11" type="man_3.09_5.3_4.2" route="r1_r6" depart="11" />
+		<vehicle id="12" type="man_3.09_5.3_4.6" route="r1_r6" depart="11" />
+		<vehicle id="13" type="auto_5.56_4.7_4.2" route="r4_r5" depart="11" />
+		<vehicle id="14" type="man_3.96_5.3_5.0" route="r4_r5" depart="12" />
+		<vehicle id="15" type="man_2.53_4.7_4.6" route="r4_r6" depart="12" />
+		<vehicle id="16" type="man_2.53_5.3_4.6" route="r1_r6" depart="12" />
+		<vehicle id="17" type="man_5.56_5.9_5.4" route="r1_r6" depart="13" />
+		<vehicle id="18" type="auto_3.96_4.7_4.2" route="r1_r6" depart="15" />
+		<vehicle id="19" type="man_5.56_5.3_5.0" route="r4_r5" depart="16" />
+		<vehicle id="20" type="man_5.56_5.9_3.8" route="r3_r8" depart="17" />
+		<vehicle id="21" type="man_3.96_5.3_4.6" route="r4_r6" depart="17" />
+		<vehicle id="22" type="man_2.14_5.9_5.0" route="r2_r8" depart="18" />
+		<vehicle id="23" type="man_1.85_4.9_5.0" route="r1_r6" depart="18" />
+		<vehicle id="24" type="man_2.14_5.3_4.2" route="r3_r8" depart="19" />
+		<vehicle id="25" type="man_2.53_4.7_3.8" route="r4_r5" depart="23" />
+		<vehicle id="26" type="man_5.56_5.3_4.2" route="r1_r6" depart="23" />
+		<vehicle id="27" type="man_3.09_4.5_5.0" route="r2_r8" depart="24" />
+		<vehicle id="28" type="man_5.56_5.3_3.8" route="r2_r8" depart="24" />
+		<vehicle id="29" type="man_2.53_5.3_4.6" route="r3_r5" depart="26" />
+		<vehicle id="30" type="man_3.09_5.3_4.6" route="r1_r5" depart="26" />
+		<vehicle id="31" type="auto_3.09_4.7_4.2" route="r2_r8" depart="27" />
+		<vehicle id="32" type="auto_3.09_4.7_3.8" route="r3_r8" depart="28" />
+		<vehicle id="33" type="man_2.14_5.3_5.4" route="r1_r6" depart="30" />
+		<vehicle id="34" type="auto_5.56_4.9_4.6" route="r4_r5" depart="30" />
+		<vehicle id="35" type="man_3.96_4.9_4.6" route="r1_r6" depart="31" />
+		<vehicle id="36" type="man_3.09_5.9_5.4" route="r1_r6" depart="32" />
+		<vehicle id="37" type="auto_3.09_5.9_4.6" route="r3_r7" depart="33" />
+		<vehicle id="38" type="man_9.26_5.3_4.6" route="r3_r7" depart="33" />
+		<vehicle id="39" type="auto_3.09_5.3_5.4" route="r4_r8" depart="36" />
+		<vehicle id="40" type="auto_3.09_4.7_5.4" route="r3_r7" depart="36" />
+		<vehicle id="41" type="man_3.09_5.3_4.6" route="r3_r7" depart="37" />
+		<vehicle id="42" type="man_3.96_4.9_4.6" route="r3_r5" depart="37" />
+		<vehicle id="43" type="man_3.09_4.7_3.8" route="r1_r6" depart="38" />
+		<vehicle id="44" type="man_1.85_5.3_5.0" route="r3_r8" depart="39" />
+		<vehicle id="45" type="man_3.96_4.5_4.6" route="r4_r5" depart="40" />
+		<vehicle id="46" type="man_3.09_4.7_4.6" route="r3_r8" depart="40" />
+		<vehicle id="47" type="man_2.14_4.9_5.0" route="r3_r8" depart="40" />
+		<vehicle id="48" type="auto_3.09_5.3_4.6" route="r4_r5" depart="41" />
+		<vehicle id="49" type="man_3.96_4.5_4.6" route="r1_r7" depart="42" />
+		<vehicle id="50" type="man_1.85_5.9_4.6" route="r4_r5" depart="42" />
+		<vehicle id="51" type="man_5.56_5.3_4.6" route="r3_r8" depart="42" />
+		<vehicle id="52" type="man_2.14_5.3_5.4" route="r1_r6" depart="45" />
+		<vehicle id="53" type="man_3.96_5.3_5.0" route="r2_r8" depart="49" />
+		<vehicle id="54" type="man_2.14_4.7_5.0" route="r3_r7" depart="50" />
+		<vehicle id="55" type="auto_3.09_5.3_4.2" route="r1_r6" depart="51" />
+		<vehicle id="56" type="auto_3.09_5.3_3.8" route="r3_r8" depart="55" />
+		<vehicle id="57" type="auto_5.56_5.3_4.2" route="r3_r5" depart="56" />
+		<vehicle id="58" type="man_3.96_4.9_5.0" route="r1_r6" depart="56" />
+		<vehicle id="59" type="man_2.14_4.7_4.2" route="r2_r8" depart="57" />
+		<vehicle id="60" type="auto_3.09_5.3_4.6" route="r4_r8" depart="60" />
+		<vehicle id="61" type="man_2.53_5.3_5.0" route="r1_r6" depart="60" />
+		<vehicle id="62" type="man_5.56_4.5_5.0" route="r2_r7" depart="61" />
+		<vehicle id="63" type="auto_3.96_4.7_5.4" route="r1_r6" depart="62" />
+		<vehicle id="64" type="auto_3.96_5.3_5.0" route="r4_r6" depart="63" />
+		<vehicle id="65" type="man_3.09_5.3_4.6" route="r3_r8" depart="64" />
+		<vehicle id="66" type="auto_2.53_4.7_5.0" route="r4_r6" depart="65" />
+		<vehicle id="67" type="auto_3.96_4.7_5.0" route="r1_r6" depart="66" />
+		<vehicle id="68" type="man_9.26_5.3_4.6" route="r4_r6" depart="68" />
+		<vehicle id="69" type="man_3.09_5.3_4.6" route="r1_r6" depart="69" />
+		<vehicle id="70" type="man_9.26_5.3_4.6" route="r4_r5" depart="69" />
+		<vehicle id="71" type="auto_2.14_5.3_4.6" route="r3_r7" depart="69" />
+		<vehicle id="72" type="man_2.53_5.3_5.0" route="r1_r6" depart="70" />
+		<vehicle id="73" type="man_2.53_5.3_5.0" route="r1_r6" depart="70" />
+		<vehicle id="74" type="man_3.09_4.5_5.0" route="r3_r5" depart="70" />
+		<vehicle id="75" type="man_3.96_5.3_4.2" route="r2_r8" depart="70" />
+		<vehicle id="76" type="auto_3.09_5.9_4.6" route="r3_r8" depart="70" />
+		<vehicle id="77" type="man_9.26_5.3_5.4" route="r4_r8" depart="71" />
+		<vehicle id="78" type="auto_3.96_4.9_4.2" route="r1_r6" depart="72" />
+		<vehicle id="79" type="man_3.96_4.7_5.0" route="r3_r7" depart="73" />
+		<vehicle id="80" type="auto_3.96_5.3_4.6" route="r3_r7" depart="75" />
+		<vehicle id="81" type="man_5.56_4.7_5.4" route="r1_r6" depart="76" />
+		<vehicle id="82" type="auto_3.09_4.5_5.0" route="r1_r6" depart="77" />
+		<vehicle id="83" type="man_3.96_5.3_4.6" route="r1_r5" depart="77" />
+		<vehicle id="84" type="man_3.09_4.9_4.2" route="r2_r7" depart="78" />
+		<vehicle id="85" type="man_2.53_4.9_5.4" route="r4_r5" depart="78" />
+		<vehicle id="86" type="auto_3.09_4.5_4.6" route="r4_r6" depart="78" />
+		<vehicle id="87" type="man_2.53_5.3_5.0" route="r2_r8" depart="79" />
+		<vehicle id="88" type="man_2.53_5.9_3.8" route="r2_r8" depart="80" />
+		<vehicle id="89" type="man_3.09_5.3_5.0" route="r4_r8" depart="81" />
+		<vehicle id="90" type="man_3.96_5.3_4.2" route="r2_r6" depart="84" />
+		<vehicle id="91" type="man_3.09_4.5_4.6" route="r1_r6" depart="85" />
+		<vehicle id="92" type="man_3.96_5.9_4.6" route="r2_r7" depart="86" />
+		<vehicle id="93" type="man_3.09_5.3_4.2" route="r1_r6" depart="87" />
+		<vehicle id="94" type="auto_5.56_5.3_5.0" route="r1_r6" depart="87" />
+		<vehicle id="95" type="man_3.96_5.9_4.2" route="r1_r6" depart="89" />
+		<vehicle id="96" type="man_2.53_5.3_4.2" route="r2_r7" depart="90" />
+		<vehicle id="97" type="auto_2.14_5.9_5.0" route="r1_r6" depart="90" />
+		<vehicle id="98" type="man_5.56_4.7_5.4" route="r3_r5" depart="90" />
+		<vehicle id="99" type="auto_2.53_4.9_4.6" route="r1_r7" depart="90" />
+</routers>

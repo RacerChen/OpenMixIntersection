@@ -1,0 +1,480 @@
+lr: 0.005, hidden_size: 32, layer_num: 1, train_batch_size: 4 - min val loss: 1.2162312666575115
+lr: 0.005, hidden_size: 32, layer_num: 1, train_batch_size: 8 - min val loss: 1.192066212495168
+lr: 0.005, hidden_size: 32, layer_num: 1, train_batch_size: 16 - min val loss: 1.1912059585253398
+lr: 0.005, hidden_size: 32, layer_num: 1, train_batch_size: 32 - min val loss: 1.1677043437957764
+lr: 0.005, hidden_size: 32, layer_num: 2, train_batch_size: 4 - min val loss: 1.2044623891512554
+lr: 0.005, hidden_size: 32, layer_num: 2, train_batch_size: 8 - min val loss: 1.1225319504737854
+lr: 0.005, hidden_size: 32, layer_num: 2, train_batch_size: 16 - min val loss: 1.0313616792360942
+lr: 0.005, hidden_size: 32, layer_num: 2, train_batch_size: 32 - min val loss: 1.0331782797972362
+lr: 0.005, hidden_size: 32, layer_num: 3, train_batch_size: 4 - min val loss: 1.296022117137909
+lr: 0.005, hidden_size: 32, layer_num: 3, train_batch_size: 8 - min val loss: 1.1122402747472127
+lr: 0.005, hidden_size: 32, layer_num: 3, train_batch_size: 16 - min val loss: 1.0821108023325603
+lr: 0.005, hidden_size: 32, layer_num: 3, train_batch_size: 32 - min val loss: 1.1096543073654175
+lr: 0.005, hidden_size: 32, layer_num: 4, train_batch_size: 4 - min val loss: 1.2769890626271565
+lr: 0.005, hidden_size: 32, layer_num: 4, train_batch_size: 8 - min val loss: 1.3467704852422078
+lr: 0.005, hidden_size: 32, layer_num: 4, train_batch_size: 16 - min val loss: 1.1519731481870015
+lr: 0.005, hidden_size: 32, layer_num: 4, train_batch_size: 32 - min val loss: 1.1423729062080383
+lr: 0.005, hidden_size: 64, layer_num: 1, train_batch_size: 4 - min val loss: 1.2379708886146545
+lr: 0.005, hidden_size: 64, layer_num: 1, train_batch_size: 8 - min val loss: 1.1632615725199382
+lr: 0.005, hidden_size: 64, layer_num: 1, train_batch_size: 16 - min val loss: 1.1043466925621033
+lr: 0.005, hidden_size: 64, layer_num: 1, train_batch_size: 32 - min val loss: 1.0926065643628438
+lr: 0.005, hidden_size: 64, layer_num: 2, train_batch_size: 4 - min val loss: 1.1710368394851685
+lr: 0.005, hidden_size: 64, layer_num: 2, train_batch_size: 8 - min val loss: 1.1117152174313862
+lr: 0.005, hidden_size: 64, layer_num: 2, train_batch_size: 16 - min val loss: 1.1080516775449116
+lr: 0.005, hidden_size: 64, layer_num: 2, train_batch_size: 32 - min val loss: 1.0106180608272552
+lr: 0.005, hidden_size: 64, layer_num: 3, train_batch_size: 4 - min val loss: 1.2535768349965413
+lr: 0.005, hidden_size: 64, layer_num: 3, train_batch_size: 8 - min val loss: 1.2102414965629578
+lr: 0.005, hidden_size: 64, layer_num: 3, train_batch_size: 16 - min val loss: 1.131397505601247
+lr: 0.005, hidden_size: 64, layer_num: 3, train_batch_size: 32 - min val loss: 1.0361262460549672
+lr: 0.005, hidden_size: 64, layer_num: 4, train_batch_size: 4 - min val loss: 1.7554120222727458
+lr: 0.005, hidden_size: 64, layer_num: 4, train_batch_size: 8 - min val loss: 1.3085123300552368
+lr: 0.005, hidden_size: 64, layer_num: 4, train_batch_size: 16 - min val loss: 1.2182950178782146
+lr: 0.005, hidden_size: 64, layer_num: 4, train_batch_size: 32 - min val loss: 1.112156629562378
+lr: 0.005, hidden_size: 128, layer_num: 1, train_batch_size: 4 - min val loss: 1.2295214732487996
+lr: 0.005, hidden_size: 128, layer_num: 1, train_batch_size: 8 - min val loss: 1.175473968187968
+lr: 0.005, hidden_size: 128, layer_num: 1, train_batch_size: 16 - min val loss: 1.1979185740152996
+lr: 0.005, hidden_size: 128, layer_num: 1, train_batch_size: 32 - min val loss: 1.0771052837371826
+lr: 0.005, hidden_size: 128, layer_num: 2, train_batch_size: 4 - min val loss: 1.2452160517374675
+lr: 0.005, hidden_size: 128, layer_num: 2, train_batch_size: 8 - min val loss: 1.160834829012553
+lr: 0.005, hidden_size: 128, layer_num: 2, train_batch_size: 16 - min val loss: 1.0308766265710194
+lr: 0.005, hidden_size: 128, layer_num: 2, train_batch_size: 32 - min val loss: 1.0318174560864766
+lr: 0.005, hidden_size: 128, layer_num: 3, train_batch_size: 4 - min val loss: 1.3467909892400105
+lr: 0.005, hidden_size: 128, layer_num: 3, train_batch_size: 8 - min val loss: 1.2288027207056682
+lr: 0.005, hidden_size: 128, layer_num: 3, train_batch_size: 16 - min val loss: 1.1494096716245015
+lr: 0.005, hidden_size: 128, layer_num: 3, train_batch_size: 32 - min val loss: 0.9963359534740448
+lr: 0.005, hidden_size: 128, layer_num: 4, train_batch_size: 4 - min val loss: 1.82382067044576
+lr: 0.005, hidden_size: 128, layer_num: 4, train_batch_size: 8 - min val loss: 1.2586682041486104
+lr: 0.005, hidden_size: 128, layer_num: 4, train_batch_size: 16 - min val loss: 1.3026002645492554
+lr: 0.005, hidden_size: 128, layer_num: 4, train_batch_size: 32 - min val loss: 1.1017118493715923
+lr: 0.005, hidden_size: 256, layer_num: 1, train_batch_size: 4 - min val loss: 1.3250254392623901
+lr: 0.005, hidden_size: 256, layer_num: 1, train_batch_size: 8 - min val loss: 1.1669362982114155
+lr: 0.005, hidden_size: 256, layer_num: 1, train_batch_size: 16 - min val loss: 1.1222822666168213
+lr: 0.005, hidden_size: 256, layer_num: 1, train_batch_size: 32 - min val loss: 1.1416655381520588
+lr: 0.005, hidden_size: 256, layer_num: 2, train_batch_size: 4 - min val loss: 1.2694871425628662
+lr: 0.005, hidden_size: 256, layer_num: 2, train_batch_size: 8 - min val loss: 1.1624372800191243
+lr: 0.005, hidden_size: 256, layer_num: 2, train_batch_size: 16 - min val loss: 1.1030039389928181
+lr: 0.005, hidden_size: 256, layer_num: 2, train_batch_size: 32 - min val loss: 1.01127095023791
+lr: 0.005, hidden_size: 256, layer_num: 3, train_batch_size: 4 - min val loss: 1.9138811826705933
+lr: 0.005, hidden_size: 256, layer_num: 3, train_batch_size: 8 - min val loss: 1.3050473928451538
+lr: 0.005, hidden_size: 256, layer_num: 3, train_batch_size: 16 - min val loss: 1.250974138577779
+lr: 0.005, hidden_size: 256, layer_num: 3, train_batch_size: 32 - min val loss: 1.0841169158617656
+lr: 0.005, hidden_size: 256, layer_num: 4, train_batch_size: 4 - min val loss: 1.8608962297439575
+lr: 0.005, hidden_size: 256, layer_num: 4, train_batch_size: 8 - min val loss: 1.7983369827270508
+lr: 0.005, hidden_size: 256, layer_num: 4, train_batch_size: 16 - min val loss: 1.2683156927426655
+lr: 0.005, hidden_size: 256, layer_num: 4, train_batch_size: 32 - min val loss: 1.2022013664245605
+lr: 0.005, hidden_size: 512, layer_num: 1, train_batch_size: 4 - min val loss: 1.3103308081626892
+lr: 0.005, hidden_size: 512, layer_num: 1, train_batch_size: 8 - min val loss: 1.2813693086306255
+lr: 0.005, hidden_size: 512, layer_num: 1, train_batch_size: 16 - min val loss: 1.1518563429514568
+lr: 0.005, hidden_size: 512, layer_num: 1, train_batch_size: 32 - min val loss: 1.1170283357302349
+lr: 0.005, hidden_size: 512, layer_num: 2, train_batch_size: 4 - min val loss: 1.9888737201690674
+lr: 0.005, hidden_size: 512, layer_num: 2, train_batch_size: 8 - min val loss: 1.4022513429323833
+lr: 0.005, hidden_size: 512, layer_num: 2, train_batch_size: 16 - min val loss: 1.2117807865142822
+lr: 0.005, hidden_size: 512, layer_num: 2, train_batch_size: 32 - min val loss: 1.1350510319073994
+lr: 0.005, hidden_size: 512, layer_num: 3, train_batch_size: 4 - min val loss: 2.001610040664673
+lr: 0.005, hidden_size: 512, layer_num: 3, train_batch_size: 8 - min val loss: 1.9225210348765056
+lr: 0.005, hidden_size: 512, layer_num: 3, train_batch_size: 16 - min val loss: 1.44199405113856
+lr: 0.005, hidden_size: 512, layer_num: 3, train_batch_size: 32 - min val loss: 1.29766180117925
+lr: 0.005, hidden_size: 512, layer_num: 4, train_batch_size: 4 - min val loss: 2.154818813006083
+lr: 0.005, hidden_size: 512, layer_num: 4, train_batch_size: 8 - min val loss: 1.9991422692934673
+lr: 0.005, hidden_size: 512, layer_num: 4, train_batch_size: 16 - min val loss: 1.874069074789683
+lr: 0.005, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 1.3332806626955669
+lr: 0.001, hidden_size: 32, layer_num: 1, train_batch_size: 4 - min val loss: 1.0353898008664448
+lr: 0.001, hidden_size: 32, layer_num: 1, train_batch_size: 8 - min val loss: 1.078422526518504
+lr: 0.001, hidden_size: 32, layer_num: 1, train_batch_size: 16 - min val loss: 1.0480578740437825
+lr: 0.001, hidden_size: 32, layer_num: 1, train_batch_size: 32 - min val loss: 1.095015545686086
+lr: 0.001, hidden_size: 32, layer_num: 2, train_batch_size: 4 - min val loss: 0.9421037137508392
+lr: 0.001, hidden_size: 32, layer_num: 2, train_batch_size: 8 - min val loss: 1.0155393580595653
+lr: 0.001, hidden_size: 32, layer_num: 2, train_batch_size: 16 - min val loss: 0.9987649321556091
+lr: 0.001, hidden_size: 32, layer_num: 2, train_batch_size: 32 - min val loss: 1.0444822510083516
+lr: 0.001, hidden_size: 32, layer_num: 3, train_batch_size: 4 - min val loss: 0.942379355430603
+lr: 0.001, hidden_size: 32, layer_num: 3, train_batch_size: 8 - min val loss: 0.9261646668116251
+lr: 0.001, hidden_size: 32, layer_num: 3, train_batch_size: 16 - min val loss: 0.9569112062454224
+lr: 0.001, hidden_size: 32, layer_num: 3, train_batch_size: 32 - min val loss: 0.9923199017842611
+lr: 0.001, hidden_size: 32, layer_num: 4, train_batch_size: 4 - min val loss: 0.9923551678657532
+lr: 0.001, hidden_size: 32, layer_num: 4, train_batch_size: 8 - min val loss: 0.9324333469072977
+lr: 0.001, hidden_size: 32, layer_num: 4, train_batch_size: 16 - min val loss: 0.9275088906288147
+lr: 0.001, hidden_size: 32, layer_num: 4, train_batch_size: 32 - min val loss: 0.9748489658037821
+lr: 0.001, hidden_size: 64, layer_num: 1, train_batch_size: 4 - min val loss: 1.000622808933258
+lr: 0.001, hidden_size: 64, layer_num: 1, train_batch_size: 8 - min val loss: 0.9857216576735178
+lr: 0.001, hidden_size: 64, layer_num: 1, train_batch_size: 16 - min val loss: 0.9709292451540629
+lr: 0.001, hidden_size: 64, layer_num: 1, train_batch_size: 32 - min val loss: 0.9795298278331757
+lr: 0.001, hidden_size: 64, layer_num: 2, train_batch_size: 4 - min val loss: 0.9584059516588846
+lr: 0.001, hidden_size: 64, layer_num: 2, train_batch_size: 8 - min val loss: 0.9334034025669098
+lr: 0.001, hidden_size: 64, layer_num: 2, train_batch_size: 16 - min val loss: 0.9196614424387614
+lr: 0.001, hidden_size: 64, layer_num: 2, train_batch_size: 32 - min val loss: 0.9769207040468851
+lr: 0.001, hidden_size: 64, layer_num: 3, train_batch_size: 4 - min val loss: 0.9586728612581888
+lr: 0.001, hidden_size: 64, layer_num: 3, train_batch_size: 8 - min val loss: 0.9026282032330831
+lr: 0.001, hidden_size: 64, layer_num: 3, train_batch_size: 16 - min val loss: 0.9360156853993734
+lr: 0.001, hidden_size: 64, layer_num: 3, train_batch_size: 32 - min val loss: 0.9357921779155731
+lr: 0.001, hidden_size: 64, layer_num: 4, train_batch_size: 4 - min val loss: 0.9916460116704305
+lr: 0.001, hidden_size: 64, layer_num: 4, train_batch_size: 8 - min val loss: 0.8665642440319061
+lr: 0.001, hidden_size: 64, layer_num: 4, train_batch_size: 16 - min val loss: 0.9335929652055105
+lr: 0.001, hidden_size: 64, layer_num: 4, train_batch_size: 32 - min val loss: 0.9492047528425852
+lr: 0.001, hidden_size: 128, layer_num: 1, train_batch_size: 4 - min val loss: 0.9827531576156616
+lr: 0.001, hidden_size: 128, layer_num: 1, train_batch_size: 8 - min val loss: 0.9410005807876587
+lr: 0.001, hidden_size: 128, layer_num: 1, train_batch_size: 16 - min val loss: 0.9319871564706167
+lr: 0.001, hidden_size: 128, layer_num: 1, train_batch_size: 32 - min val loss: 0.954876164595286
+lr: 0.001, hidden_size: 128, layer_num: 2, train_batch_size: 4 - min val loss: 0.9652342597643534
+lr: 0.001, hidden_size: 128, layer_num: 2, train_batch_size: 8 - min val loss: 0.9219736456871033
+lr: 0.001, hidden_size: 128, layer_num: 2, train_batch_size: 16 - min val loss: 0.9195427894592285
+lr: 0.001, hidden_size: 128, layer_num: 2, train_batch_size: 32 - min val loss: 0.905649850765864
+lr: 0.001, hidden_size: 128, layer_num: 3, train_batch_size: 4 - min val loss: 0.9507178465525309
+lr: 0.001, hidden_size: 128, layer_num: 3, train_batch_size: 8 - min val loss: 0.933787594238917
+lr: 0.001, hidden_size: 128, layer_num: 3, train_batch_size: 16 - min val loss: 0.8560755948225657
+lr: 0.001, hidden_size: 128, layer_num: 3, train_batch_size: 32 - min val loss: 0.902324765920639
+lr: 0.001, hidden_size: 128, layer_num: 4, train_batch_size: 4 - min val loss: 0.9360363682111105
+lr: 0.001, hidden_size: 128, layer_num: 4, train_batch_size: 8 - min val loss: 0.9110541939735413
+lr: 0.001, hidden_size: 128, layer_num: 4, train_batch_size: 16 - min val loss: 0.8818100492159525
+lr: 0.001, hidden_size: 128, layer_num: 4, train_batch_size: 32 - min val loss: 0.8755093713601431
+lr: 0.001, hidden_size: 256, layer_num: 1, train_batch_size: 4 - min val loss: 0.9841597477595011
+lr: 0.001, hidden_size: 256, layer_num: 1, train_batch_size: 8 - min val loss: 0.9703967471917471
+lr: 0.001, hidden_size: 256, layer_num: 1, train_batch_size: 16 - min val loss: 0.9485238194465637
+lr: 0.001, hidden_size: 256, layer_num: 1, train_batch_size: 32 - min val loss: 0.8900190194447836
+lr: 0.001, hidden_size: 256, layer_num: 2, train_batch_size: 4 - min val loss: 0.9320259292920431
+lr: 0.001, hidden_size: 256, layer_num: 2, train_batch_size: 8 - min val loss: 0.8990485171477
+lr: 0.001, hidden_size: 256, layer_num: 2, train_batch_size: 16 - min val loss: 0.8958687682946523
+lr: 0.001, hidden_size: 256, layer_num: 2, train_batch_size: 32 - min val loss: 0.9255387286345164
+lr: 0.001, hidden_size: 256, layer_num: 3, train_batch_size: 4 - min val loss: 0.9668705066045126
+lr: 0.001, hidden_size: 256, layer_num: 3, train_batch_size: 8 - min val loss: 0.9304875632127126
+lr: 0.001, hidden_size: 256, layer_num: 3, train_batch_size: 16 - min val loss: 0.8559359014034271
+lr: 0.001, hidden_size: 256, layer_num: 3, train_batch_size: 32 - min val loss: 0.8825284739335378
+lr: 0.001, hidden_size: 256, layer_num: 4, train_batch_size: 4 - min val loss: 0.9815966486930847
+lr: 0.001, hidden_size: 256, layer_num: 4, train_batch_size: 8 - min val loss: 0.9315571288267771
+lr: 0.001, hidden_size: 256, layer_num: 4, train_batch_size: 16 - min val loss: 0.9423085550467173
+lr: 0.001, hidden_size: 256, layer_num: 4, train_batch_size: 32 - min val loss: 0.8904584248860677
+lr: 0.001, hidden_size: 512, layer_num: 1, train_batch_size: 4 - min val loss: 1.0070724685986836
+lr: 0.001, hidden_size: 512, layer_num: 1, train_batch_size: 8 - min val loss: 0.9324735403060913
+lr: 0.001, hidden_size: 512, layer_num: 1, train_batch_size: 16 - min val loss: 0.8973297973473867
+lr: 0.001, hidden_size: 512, layer_num: 1, train_batch_size: 32 - min val loss: 0.8896607458591461
+lr: 0.001, hidden_size: 512, layer_num: 2, train_batch_size: 4 - min val loss: 1.0040925244490306
+lr: 0.001, hidden_size: 512, layer_num: 2, train_batch_size: 8 - min val loss: 0.887580543756485
+lr: 0.001, hidden_size: 512, layer_num: 2, train_batch_size: 16 - min val loss: 0.8944829404354095
+lr: 0.001, hidden_size: 512, layer_num: 2, train_batch_size: 32 - min val loss: 0.8746218085289001
+lr: 0.001, hidden_size: 512, layer_num: 3, train_batch_size: 4 - min val loss: 0.9979861974716187
+lr: 0.001, hidden_size: 512, layer_num: 3, train_batch_size: 8 - min val loss: 0.9362467924753824
+lr: 0.001, hidden_size: 512, layer_num: 3, train_batch_size: 16 - min val loss: 0.874344398578008
+lr: 0.001, hidden_size: 512, layer_num: 3, train_batch_size: 32 - min val loss: 0.8729914426803589
+lr: 0.001, hidden_size: 512, layer_num: 4, train_batch_size: 4 - min val loss: 1.0294877489407857
+lr: 0.001, hidden_size: 512, layer_num: 4, train_batch_size: 8 - min val loss: 0.962053527434667
+lr: 0.001, hidden_size: 512, layer_num: 4, train_batch_size: 16 - min val loss: 0.9617921809355418
+lr: 0.001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.8918441534042358
+lr: 0.005, hidden_size: 32, layer_num: 1, train_batch_size: 4 - min val loss: 1.3558196028073628
+lr: 0.005, hidden_size: 32, layer_num: 1, train_batch_size: 8 - min val loss: 1.212576409180959
+lr: 0.005, hidden_size: 32, layer_num: 1, train_batch_size: 16 - min val loss: 1.2089934746424358
+lr: 0.005, hidden_size: 32, layer_num: 1, train_batch_size: 32 - min val loss: 1.2099682291348774
+lr: 0.005, hidden_size: 32, layer_num: 2, train_batch_size: 4 - min val loss: 1.1539658506711323
+lr: 0.005, hidden_size: 32, layer_num: 2, train_batch_size: 8 - min val loss: 1.106267551581065
+lr: 0.005, hidden_size: 32, layer_num: 2, train_batch_size: 16 - min val loss: 1.118767003218333
+lr: 0.005, hidden_size: 32, layer_num: 2, train_batch_size: 32 - min val loss: 1.0256801942984264
+lr: 0.005, hidden_size: 32, layer_num: 3, train_batch_size: 4 - min val loss: 1.2031731009483337
+lr: 0.005, hidden_size: 32, layer_num: 3, train_batch_size: 8 - min val loss: 1.153724471728007
+lr: 0.005, hidden_size: 32, layer_num: 3, train_batch_size: 16 - min val loss: 1.1308125456174214
+lr: 0.005, hidden_size: 32, layer_num: 3, train_batch_size: 32 - min val loss: 1.0571569899717967
+lr: 0.005, hidden_size: 32, layer_num: 4, train_batch_size: 4 - min val loss: 1.3140334685643513
+lr: 0.005, hidden_size: 32, layer_num: 4, train_batch_size: 8 - min val loss: 1.2568742235501607
+lr: 0.005, hidden_size: 32, layer_num: 4, train_batch_size: 16 - min val loss: 1.165236492951711
+lr: 0.005, hidden_size: 32, layer_num: 4, train_batch_size: 32 - min val loss: 1.1471476554870605
+lr: 0.005, hidden_size: 64, layer_num: 1, train_batch_size: 4 - min val loss: 1.3476595878601074
+lr: 0.005, hidden_size: 64, layer_num: 1, train_batch_size: 8 - min val loss: 1.2238561908404033
+lr: 0.005, hidden_size: 64, layer_num: 1, train_batch_size: 16 - min val loss: 1.1308250228563945
+lr: 0.005, hidden_size: 64, layer_num: 1, train_batch_size: 32 - min val loss: 1.1559397379557292
+lr: 0.005, hidden_size: 64, layer_num: 2, train_batch_size: 4 - min val loss: 1.223742425441742
+lr: 0.005, hidden_size: 64, layer_num: 2, train_batch_size: 8 - min val loss: 1.14957461754481
+lr: 0.005, hidden_size: 64, layer_num: 2, train_batch_size: 16 - min val loss: 1.0616447726885478
+lr: 0.005, hidden_size: 64, layer_num: 2, train_batch_size: 32 - min val loss: 1.0784518520037334
+lr: 0.005, hidden_size: 64, layer_num: 3, train_batch_size: 4 - min val loss: 1.2628069122632344
+lr: 0.005, hidden_size: 64, layer_num: 3, train_batch_size: 8 - min val loss: 1.2030674417813618
+lr: 0.005, hidden_size: 64, layer_num: 3, train_batch_size: 16 - min val loss: 1.1557968258857727
+lr: 0.005, hidden_size: 64, layer_num: 3, train_batch_size: 32 - min val loss: 1.0786641637484233
+lr: 0.005, hidden_size: 64, layer_num: 4, train_batch_size: 4 - min val loss: 1.548791269461314
+lr: 0.005, hidden_size: 64, layer_num: 4, train_batch_size: 8 - min val loss: 1.270253300666809
+lr: 0.005, hidden_size: 64, layer_num: 4, train_batch_size: 16 - min val loss: 1.2018786072731018
+lr: 0.005, hidden_size: 64, layer_num: 4, train_batch_size: 32 - min val loss: 1.13533216714859
+lr: 0.005, hidden_size: 128, layer_num: 1, train_batch_size: 4 - min val loss: 1.26615709066391
+lr: 0.005, hidden_size: 128, layer_num: 1, train_batch_size: 8 - min val loss: 1.1715512871742249
+lr: 0.005, hidden_size: 128, layer_num: 1, train_batch_size: 16 - min val loss: 1.1142736474672954
+lr: 0.005, hidden_size: 128, layer_num: 1, train_batch_size: 32 - min val loss: 1.0728213389714558
+lr: 0.005, hidden_size: 128, layer_num: 2, train_batch_size: 4 - min val loss: 1.2577800154685974
+lr: 0.005, hidden_size: 128, layer_num: 2, train_batch_size: 8 - min val loss: 1.1943008502324421
+lr: 0.005, hidden_size: 128, layer_num: 2, train_batch_size: 16 - min val loss: 1.107539673646291
+lr: 0.005, hidden_size: 128, layer_num: 2, train_batch_size: 32 - min val loss: 1.0117312371730804
+lr: 0.005, hidden_size: 128, layer_num: 3, train_batch_size: 4 - min val loss: 1.3280772964159648
+lr: 0.005, hidden_size: 128, layer_num: 3, train_batch_size: 8 - min val loss: 1.1858374675114949
+lr: 0.005, hidden_size: 128, layer_num: 3, train_batch_size: 16 - min val loss: 1.1571597059567769
+lr: 0.005, hidden_size: 128, layer_num: 3, train_batch_size: 32 - min val loss: 1.0819620887438457
+lr: 0.005, hidden_size: 128, layer_num: 4, train_batch_size: 4 - min val loss: 1.4669778148333232
+lr: 0.005, hidden_size: 128, layer_num: 4, train_batch_size: 8 - min val loss: 1.2764669458071392
+lr: 0.005, hidden_size: 128, layer_num: 4, train_batch_size: 16 - min val loss: 1.1642786661783855
+lr: 0.005, hidden_size: 128, layer_num: 4, train_batch_size: 32 - min val loss: 1.2228057384490967
+lr: 0.005, hidden_size: 256, layer_num: 1, train_batch_size: 4 - min val loss: 1.2601239482561748
+lr: 0.005, hidden_size: 256, layer_num: 1, train_batch_size: 8 - min val loss: 1.2330496311187744
+lr: 0.005, hidden_size: 256, layer_num: 1, train_batch_size: 16 - min val loss: 1.1489595174789429
+lr: 0.005, hidden_size: 256, layer_num: 1, train_batch_size: 32 - min val loss: 1.082853376865387
+lr: 0.005, hidden_size: 256, layer_num: 2, train_batch_size: 4 - min val loss: 1.4424921870231628
+lr: 0.005, hidden_size: 256, layer_num: 2, train_batch_size: 8 - min val loss: 1.230439265569051
+lr: 0.005, hidden_size: 256, layer_num: 2, train_batch_size: 16 - min val loss: 1.1620017687479656
+lr: 0.005, hidden_size: 256, layer_num: 2, train_batch_size: 32 - min val loss: 1.0524072845776875
+lr: 0.005, hidden_size: 256, layer_num: 3, train_batch_size: 4 - min val loss: 1.92623374859492
+lr: 0.005, hidden_size: 256, layer_num: 3, train_batch_size: 8 - min val loss: 1.279457728068034
+lr: 0.005, hidden_size: 256, layer_num: 3, train_batch_size: 16 - min val loss: 1.1894265015920003
+lr: 0.005, hidden_size: 256, layer_num: 3, train_batch_size: 32 - min val loss: 1.1693552136421204
+lr: 0.005, hidden_size: 256, layer_num: 4, train_batch_size: 4 - min val loss: 2.072571794191996
+lr: 0.005, hidden_size: 256, layer_num: 4, train_batch_size: 8 - min val loss: 1.8211539189020793
+lr: 0.005, hidden_size: 256, layer_num: 4, train_batch_size: 16 - min val loss: 1.2791548371315002
+lr: 0.005, hidden_size: 256, layer_num: 4, train_batch_size: 32 - min val loss: 1.095867653687795
+lr: 0.005, hidden_size: 512, layer_num: 1, train_batch_size: 4 - min val loss: 1.3108664751052856
+lr: 0.005, hidden_size: 512, layer_num: 1, train_batch_size: 8 - min val loss: 1.219634731610616
+lr: 0.005, hidden_size: 512, layer_num: 1, train_batch_size: 16 - min val loss: 1.1624305645624797
+lr: 0.005, hidden_size: 512, layer_num: 1, train_batch_size: 32 - min val loss: 1.1265608668327332
+lr: 0.005, hidden_size: 512, layer_num: 2, train_batch_size: 4 - min val loss: 1.7315149108568828
+lr: 0.005, hidden_size: 512, layer_num: 2, train_batch_size: 8 - min val loss: 1.3985121647516887
+lr: 0.005, hidden_size: 512, layer_num: 2, train_batch_size: 16 - min val loss: 1.1977861722310383
+lr: 0.005, hidden_size: 512, layer_num: 2, train_batch_size: 32 - min val loss: 1.1653648614883423
+lr: 0.005, hidden_size: 512, layer_num: 3, train_batch_size: 4 - min val loss: 2.1205137968063354
+lr: 0.005, hidden_size: 512, layer_num: 3, train_batch_size: 8 - min val loss: 1.953061083952586
+lr: 0.005, hidden_size: 512, layer_num: 3, train_batch_size: 16 - min val loss: 1.4524863958358765
+lr: 0.005, hidden_size: 512, layer_num: 3, train_batch_size: 32 - min val loss: 1.2865351438522339
+lr: 0.005, hidden_size: 512, layer_num: 4, train_batch_size: 4 - min val loss: 2.090949376424154
+lr: 0.005, hidden_size: 512, layer_num: 4, train_batch_size: 8 - min val loss: 2.058331608772278
+lr: 0.005, hidden_size: 512, layer_num: 4, train_batch_size: 16 - min val loss: 1.7971456249554951
+lr: 0.005, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 1.6981581250826518
+lr: 0.0005, hidden_size: 32, layer_num: 1, train_batch_size: 4 - min val loss: 1.0137612521648407
+lr: 0.0005, hidden_size: 32, layer_num: 1, train_batch_size: 8 - min val loss: 1.0466964642206829
+lr: 0.0005, hidden_size: 32, layer_num: 1, train_batch_size: 16 - min val loss: 1.092363138993581
+lr: 0.0005, hidden_size: 32, layer_num: 1, train_batch_size: 32 - min val loss: 1.0935406883557637
+lr: 0.0005, hidden_size: 32, layer_num: 2, train_batch_size: 4 - min val loss: 1.0172435442606609
+lr: 0.0005, hidden_size: 32, layer_num: 2, train_batch_size: 8 - min val loss: 0.980098694562912
+lr: 0.0005, hidden_size: 32, layer_num: 2, train_batch_size: 16 - min val loss: 1.0177521010239918
+lr: 0.0005, hidden_size: 32, layer_num: 2, train_batch_size: 32 - min val loss: 1.0569161772727966
+lr: 0.0005, hidden_size: 32, layer_num: 3, train_batch_size: 4 - min val loss: 0.9045459628105164
+lr: 0.0005, hidden_size: 32, layer_num: 3, train_batch_size: 8 - min val loss: 0.989898294210434
+lr: 0.0005, hidden_size: 32, layer_num: 3, train_batch_size: 16 - min val loss: 1.0160367985566456
+lr: 0.0005, hidden_size: 32, layer_num: 3, train_batch_size: 32 - min val loss: 1.0382836163043976
+lr: 0.0005, hidden_size: 32, layer_num: 4, train_batch_size: 4 - min val loss: 0.9025223553180695
+lr: 0.0005, hidden_size: 32, layer_num: 4, train_batch_size: 8 - min val loss: 0.9200432598590851
+lr: 0.0005, hidden_size: 32, layer_num: 4, train_batch_size: 16 - min val loss: 0.9918724596500397
+lr: 0.0005, hidden_size: 32, layer_num: 4, train_batch_size: 32 - min val loss: 1.0664076805114746
+lr: 0.0005, hidden_size: 64, layer_num: 1, train_batch_size: 4 - min val loss: 0.9921091496944427
+lr: 0.0005, hidden_size: 64, layer_num: 1, train_batch_size: 8 - min val loss: 0.9482298890749613
+lr: 0.0005, hidden_size: 64, layer_num: 1, train_batch_size: 16 - min val loss: 0.9902684092521667
+lr: 0.0005, hidden_size: 64, layer_num: 1, train_batch_size: 32 - min val loss: 1.0113895535469055
+lr: 0.0005, hidden_size: 64, layer_num: 2, train_batch_size: 4 - min val loss: 0.896101196606954
+lr: 0.0005, hidden_size: 64, layer_num: 2, train_batch_size: 8 - min val loss: 0.9315072099367777
+lr: 0.0005, hidden_size: 64, layer_num: 2, train_batch_size: 16 - min val loss: 0.9527519643306732
+lr: 0.0005, hidden_size: 64, layer_num: 2, train_batch_size: 32 - min val loss: 0.9853050311406454
+lr: 0.0005, hidden_size: 64, layer_num: 3, train_batch_size: 4 - min val loss: 0.878142903248469
+lr: 0.0005, hidden_size: 64, layer_num: 3, train_batch_size: 8 - min val loss: 0.8769289155801138
+lr: 0.0005, hidden_size: 64, layer_num: 3, train_batch_size: 16 - min val loss: 0.9148864249388377
+lr: 0.0005, hidden_size: 64, layer_num: 3, train_batch_size: 32 - min val loss: 1.0011588037014008
+lr: 0.0005, hidden_size: 64, layer_num: 4, train_batch_size: 4 - min val loss: 0.8873902757962545
+lr: 0.0005, hidden_size: 64, layer_num: 4, train_batch_size: 8 - min val loss: 0.8694626192251841
+lr: 0.0005, hidden_size: 64, layer_num: 4, train_batch_size: 16 - min val loss: 0.9428334136803945
+lr: 0.0005, hidden_size: 64, layer_num: 4, train_batch_size: 32 - min val loss: 0.9353954493999481
+lr: 0.0005, hidden_size: 128, layer_num: 1, train_batch_size: 4 - min val loss: 0.9506721695264181
+lr: 0.0005, hidden_size: 128, layer_num: 1, train_batch_size: 8 - min val loss: 0.9363531867663065
+lr: 0.0005, hidden_size: 128, layer_num: 1, train_batch_size: 16 - min val loss: 0.916326512893041
+lr: 0.0005, hidden_size: 128, layer_num: 1, train_batch_size: 32 - min val loss: 0.9471695721149445
+lr: 0.0005, hidden_size: 128, layer_num: 2, train_batch_size: 4 - min val loss: 0.8727952837944031
+lr: 0.0005, hidden_size: 128, layer_num: 2, train_batch_size: 8 - min val loss: 0.8647088209788004
+lr: 0.0005, hidden_size: 128, layer_num: 2, train_batch_size: 16 - min val loss: 0.8998840550581614
+lr: 0.0005, hidden_size: 128, layer_num: 2, train_batch_size: 32 - min val loss: 0.9623579581578573
+lr: 0.0005, hidden_size: 128, layer_num: 3, train_batch_size: 4 - min val loss: 0.8924272557099661
+lr: 0.0005, hidden_size: 128, layer_num: 3, train_batch_size: 8 - min val loss: 0.8667447169621786
+lr: 0.0005, hidden_size: 128, layer_num: 3, train_batch_size: 16 - min val loss: 0.84718124071757
+lr: 0.0005, hidden_size: 128, layer_num: 3, train_batch_size: 32 - min val loss: 0.8532003859678904
+lr: 0.0005, hidden_size: 128, layer_num: 4, train_batch_size: 4 - min val loss: 0.8897384603818258
+lr: 0.0005, hidden_size: 128, layer_num: 4, train_batch_size: 8 - min val loss: 0.8044995566209158
+lr: 0.0005, hidden_size: 128, layer_num: 4, train_batch_size: 16 - min val loss: 0.8782080709934235
+lr: 0.0005, hidden_size: 128, layer_num: 4, train_batch_size: 32 - min val loss: 0.888953685760498
+lr: 0.0005, hidden_size: 256, layer_num: 1, train_batch_size: 4 - min val loss: 0.8915923237800598
+lr: 0.0005, hidden_size: 256, layer_num: 1, train_batch_size: 8 - min val loss: 0.9050717254479727
+lr: 0.0005, hidden_size: 256, layer_num: 1, train_batch_size: 16 - min val loss: 0.91539599498113
+lr: 0.0005, hidden_size: 256, layer_num: 1, train_batch_size: 32 - min val loss: 0.9241417348384857
+lr: 0.0005, hidden_size: 256, layer_num: 2, train_batch_size: 4 - min val loss: 0.881770263115565
+lr: 0.0005, hidden_size: 256, layer_num: 2, train_batch_size: 8 - min val loss: 0.8565994799137115
+lr: 0.0005, hidden_size: 256, layer_num: 2, train_batch_size: 16 - min val loss: 0.8905894557634989
+lr: 0.0005, hidden_size: 256, layer_num: 2, train_batch_size: 32 - min val loss: 0.8710211217403412
+lr: 0.0005, hidden_size: 256, layer_num: 3, train_batch_size: 4 - min val loss: 0.8549478153387705
+lr: 0.0005, hidden_size: 256, layer_num: 3, train_batch_size: 8 - min val loss: 0.8282356460889181
+lr: 0.0005, hidden_size: 256, layer_num: 3, train_batch_size: 16 - min val loss: 0.7869859139124552
+lr: 0.0005, hidden_size: 256, layer_num: 3, train_batch_size: 32 - min val loss: 0.8479122916857401
+lr: 0.0005, hidden_size: 256, layer_num: 4, train_batch_size: 4 - min val loss: 0.8741762141386668
+lr: 0.0005, hidden_size: 256, layer_num: 4, train_batch_size: 8 - min val loss: 0.9130260944366455
+lr: 0.0005, hidden_size: 256, layer_num: 4, train_batch_size: 16 - min val loss: 0.8314736584822336
+lr: 0.0005, hidden_size: 256, layer_num: 4, train_batch_size: 32 - min val loss: 0.8531786700089773
+lr: 0.0005, hidden_size: 512, layer_num: 1, train_batch_size: 4 - min val loss: 0.9160652558008829
+lr: 0.0005, hidden_size: 512, layer_num: 1, train_batch_size: 8 - min val loss: 0.888197143872579
+lr: 0.0005, hidden_size: 512, layer_num: 1, train_batch_size: 16 - min val loss: 0.8896854817867279
+lr: 0.0005, hidden_size: 512, layer_num: 1, train_batch_size: 32 - min val loss: 0.8973834216594696
+lr: 0.0005, hidden_size: 512, layer_num: 2, train_batch_size: 4 - min val loss: 0.858153502146403
+lr: 0.0005, hidden_size: 512, layer_num: 2, train_batch_size: 8 - min val loss: 0.8164733747641245
+lr: 0.0005, hidden_size: 512, layer_num: 2, train_batch_size: 16 - min val loss: 0.8442685107390085
+lr: 0.0005, hidden_size: 512, layer_num: 2, train_batch_size: 32 - min val loss: 0.8960514763991038
+lr: 0.0005, hidden_size: 512, layer_num: 3, train_batch_size: 4 - min val loss: 0.8531013627847036
+lr: 0.0005, hidden_size: 512, layer_num: 3, train_batch_size: 8 - min val loss: 0.8064781228701273
+lr: 0.0005, hidden_size: 512, layer_num: 3, train_batch_size: 16 - min val loss: 0.7538142005602518
+lr: 0.0005, hidden_size: 512, layer_num: 3, train_batch_size: 32 - min val loss: 0.8289334575335184
+lr: 0.0005, hidden_size: 512, layer_num: 4, train_batch_size: 4 - min val loss: 0.9015547732512156
+lr: 0.0005, hidden_size: 512, layer_num: 4, train_batch_size: 8 - min val loss: 0.8689995308717092
+lr: 0.0005, hidden_size: 512, layer_num: 4, train_batch_size: 16 - min val loss: 0.7609833677609762
+lr: 0.0005, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.7641027271747589
+lr: 0.0001, hidden_size: 32, layer_num: 1, train_batch_size: 4 - min val loss: 1.0741772949695587
+lr: 0.0001, hidden_size: 32, layer_num: 1, train_batch_size: 8 - min val loss: 1.1083332498868306
+lr: 0.0001, hidden_size: 32, layer_num: 1, train_batch_size: 16 - min val loss: 1.1586103439331055
+lr: 0.0001, hidden_size: 32, layer_num: 1, train_batch_size: 32 - min val loss: 1.2533007462819417
+lr: 0.0001, hidden_size: 32, layer_num: 2, train_batch_size: 4 - min val loss: 1.0347555776437123
+lr: 0.0001, hidden_size: 32, layer_num: 2, train_batch_size: 8 - min val loss: 1.10745303829511
+lr: 0.0001, hidden_size: 32, layer_num: 2, train_batch_size: 16 - min val loss: 1.1212092638015747
+lr: 0.0001, hidden_size: 32, layer_num: 2, train_batch_size: 32 - min val loss: 1.1231745481491089
+lr: 0.0001, hidden_size: 32, layer_num: 3, train_batch_size: 4 - min val loss: 1.0564762353897095
+lr: 0.0001, hidden_size: 32, layer_num: 3, train_batch_size: 8 - min val loss: 1.0742403268814087
+lr: 0.0001, hidden_size: 32, layer_num: 3, train_batch_size: 16 - min val loss: 1.1380950212478638
+lr: 0.0001, hidden_size: 32, layer_num: 3, train_batch_size: 32 - min val loss: 1.2054566144943237
+lr: 0.0001, hidden_size: 32, layer_num: 4, train_batch_size: 4 - min val loss: 1.054363449414571
+lr: 0.0001, hidden_size: 32, layer_num: 4, train_batch_size: 8 - min val loss: 1.04677418867747
+lr: 0.0001, hidden_size: 32, layer_num: 4, train_batch_size: 16 - min val loss: 1.1360933780670166
+lr: 0.0001, hidden_size: 32, layer_num: 4, train_batch_size: 32 - min val loss: 1.2432040969530742
+lr: 0.0001, hidden_size: 64, layer_num: 1, train_batch_size: 4 - min val loss: 1.0389570593833923
+lr: 0.0001, hidden_size: 64, layer_num: 1, train_batch_size: 8 - min val loss: 1.042594571908315
+lr: 0.0001, hidden_size: 64, layer_num: 1, train_batch_size: 16 - min val loss: 1.004518061876297
+lr: 0.0001, hidden_size: 64, layer_num: 1, train_batch_size: 32 - min val loss: 1.0810185968875885
+lr: 0.0001, hidden_size: 64, layer_num: 2, train_batch_size: 4 - min val loss: 0.9902909298737844
+lr: 0.0001, hidden_size: 64, layer_num: 2, train_batch_size: 8 - min val loss: 1.0153096616268158
+lr: 0.0001, hidden_size: 64, layer_num: 2, train_batch_size: 16 - min val loss: 1.0759014089902241
+lr: 0.0001, hidden_size: 64, layer_num: 2, train_batch_size: 32 - min val loss: 1.050438642501831
+lr: 0.0001, hidden_size: 64, layer_num: 3, train_batch_size: 4 - min val loss: 0.9620956679185232
+lr: 0.0001, hidden_size: 64, layer_num: 3, train_batch_size: 8 - min val loss: 1.0097321172555287
+lr: 0.0001, hidden_size: 64, layer_num: 3, train_batch_size: 16 - min val loss: 1.0617488821347554
+lr: 0.0001, hidden_size: 64, layer_num: 3, train_batch_size: 32 - min val loss: 1.1311289469401042
+lr: 0.0001, hidden_size: 64, layer_num: 4, train_batch_size: 4 - min val loss: 0.9679303467273712
+lr: 0.0001, hidden_size: 64, layer_num: 4, train_batch_size: 8 - min val loss: 1.0018998980522156
+lr: 0.0001, hidden_size: 64, layer_num: 4, train_batch_size: 16 - min val loss: 1.0802281300226848
+lr: 0.0001, hidden_size: 64, layer_num: 4, train_batch_size: 32 - min val loss: 1.0630123019218445
+lr: 0.0001, hidden_size: 128, layer_num: 1, train_batch_size: 4 - min val loss: 0.9635724127292633
+lr: 0.0001, hidden_size: 128, layer_num: 1, train_batch_size: 8 - min val loss: 0.9594859778881073
+lr: 0.0001, hidden_size: 128, layer_num: 1, train_batch_size: 16 - min val loss: 0.9944112102190653
+lr: 0.0001, hidden_size: 128, layer_num: 1, train_batch_size: 32 - min val loss: 1.015110582113266
+lr: 0.0001, hidden_size: 128, layer_num: 2, train_batch_size: 4 - min val loss: 0.8989058832327524
+lr: 0.0001, hidden_size: 128, layer_num: 2, train_batch_size: 8 - min val loss: 0.9284274379412333
+lr: 0.0001, hidden_size: 128, layer_num: 2, train_batch_size: 16 - min val loss: 0.9964742064476013
+lr: 0.0001, hidden_size: 128, layer_num: 2, train_batch_size: 32 - min val loss: 1.070841650168101
+lr: 0.0001, hidden_size: 128, layer_num: 3, train_batch_size: 4 - min val loss: 0.8988034129142761
+lr: 0.0001, hidden_size: 128, layer_num: 3, train_batch_size: 8 - min val loss: 0.9479166567325592
+lr: 0.0001, hidden_size: 128, layer_num: 3, train_batch_size: 16 - min val loss: 0.9718690315882365
+lr: 0.0001, hidden_size: 128, layer_num: 3, train_batch_size: 32 - min val loss: 1.0460829933484395
+lr: 0.0001, hidden_size: 128, layer_num: 4, train_batch_size: 4 - min val loss: 0.8315623104572296
+lr: 0.0001, hidden_size: 128, layer_num: 4, train_batch_size: 8 - min val loss: 0.9381601909796397
+lr: 0.0001, hidden_size: 128, layer_num: 4, train_batch_size: 16 - min val loss: 0.9584941069285074
+lr: 0.0001, hidden_size: 128, layer_num: 4, train_batch_size: 32 - min val loss: 1.0476231575012207
+lr: 0.0001, hidden_size: 256, layer_num: 1, train_batch_size: 4 - min val loss: 0.9126377602418264
+lr: 0.0001, hidden_size: 256, layer_num: 1, train_batch_size: 8 - min val loss: 0.9377820193767548
+lr: 0.0001, hidden_size: 256, layer_num: 1, train_batch_size: 16 - min val loss: 0.9551392694314321
+lr: 0.0001, hidden_size: 256, layer_num: 1, train_batch_size: 32 - min val loss: 0.9774125615755717
+lr: 0.0001, hidden_size: 256, layer_num: 2, train_batch_size: 4 - min val loss: 0.8595490753650665
+lr: 0.0001, hidden_size: 256, layer_num: 2, train_batch_size: 8 - min val loss: 0.8681750694910685
+lr: 0.0001, hidden_size: 256, layer_num: 2, train_batch_size: 16 - min val loss: 0.9709676802158356
+lr: 0.0001, hidden_size: 256, layer_num: 2, train_batch_size: 32 - min val loss: 0.9878853460152944
+lr: 0.0001, hidden_size: 256, layer_num: 3, train_batch_size: 4 - min val loss: 0.8049644331137339
+lr: 0.0001, hidden_size: 256, layer_num: 3, train_batch_size: 8 - min val loss: 0.8768305877844492
+lr: 0.0001, hidden_size: 256, layer_num: 3, train_batch_size: 16 - min val loss: 0.9041216174761454
+lr: 0.0001, hidden_size: 256, layer_num: 3, train_batch_size: 32 - min val loss: 0.940760095914205
+lr: 0.0001, hidden_size: 256, layer_num: 4, train_batch_size: 4 - min val loss: 0.7672968705495199
+lr: 0.0001, hidden_size: 256, layer_num: 4, train_batch_size: 8 - min val loss: 0.7972650130589803
+lr: 0.0001, hidden_size: 256, layer_num: 4, train_batch_size: 16 - min val loss: 0.8835399548212687
+lr: 0.0001, hidden_size: 256, layer_num: 4, train_batch_size: 32 - min val loss: 0.933969626824061
+lr: 0.0001, hidden_size: 512, layer_num: 1, train_batch_size: 4 - min val loss: 0.8791795670986176
+lr: 0.0001, hidden_size: 512, layer_num: 1, train_batch_size: 8 - min val loss: 0.9018871386845907
+lr: 0.0001, hidden_size: 512, layer_num: 1, train_batch_size: 16 - min val loss: 0.916245569785436
+lr: 0.0001, hidden_size: 512, layer_num: 1, train_batch_size: 32 - min val loss: 0.9575224121411642
+lr: 0.0001, hidden_size: 512, layer_num: 2, train_batch_size: 4 - min val loss: 0.8035036424795786
+lr: 0.0001, hidden_size: 512, layer_num: 2, train_batch_size: 8 - min val loss: 0.8427915175755819
+lr: 0.0001, hidden_size: 512, layer_num: 2, train_batch_size: 16 - min val loss: 0.8618608315785726
+lr: 0.0001, hidden_size: 512, layer_num: 2, train_batch_size: 32 - min val loss: 0.9158925910790762
+lr: 0.0001, hidden_size: 512, layer_num: 3, train_batch_size: 4 - min val loss: 0.7445308268070221
+lr: 0.0001, hidden_size: 512, layer_num: 3, train_batch_size: 8 - min val loss: 0.7773072421550751
+lr: 0.0001, hidden_size: 512, layer_num: 3, train_batch_size: 16 - min val loss: 0.8114846348762512
+lr: 0.0001, hidden_size: 512, layer_num: 3, train_batch_size: 32 - min val loss: 0.883920818567276
+lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 4 - min val loss: 0.6609392364819845
+lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 8 - min val loss: 0.7488079567750295
+lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 16 - min val loss: 0.8084105650583903
+lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.8534244306882223
+lr: 0.0001, hidden_size: 1024, layer_num: 1, train_batch_size: 4 - min val loss: 0.8541386723518372
+lr: 0.0001, hidden_size: 1024, layer_num: 1, train_batch_size: 8 - min val loss: 0.8830040792624155
+lr: 0.0001, hidden_size: 1024, layer_num: 1, train_batch_size: 16 - min val loss: 0.8994224568208059
+lr: 0.0001, hidden_size: 1024, layer_num: 1, train_batch_size: 32 - min val loss: 0.8916973372300466
+lr: 0.0001, hidden_size: 1024, layer_num: 2, train_batch_size: 4 - min val loss: 0.7556198139985403
+lr: 0.0001, hidden_size: 1024, layer_num: 2, train_batch_size: 8 - min val loss: 0.7513021032015482
+lr: 0.0001, hidden_size: 1024, layer_num: 2, train_batch_size: 16 - min val loss: 0.8226398825645447
+lr: 0.0001, hidden_size: 1024, layer_num: 2, train_batch_size: 32 - min val loss: 0.8726044694582621
+lr: 0.0001, hidden_size: 1024, layer_num: 3, train_batch_size: 4 - min val loss: 0.6809238493442535
+lr: 0.0001, hidden_size: 1024, layer_num: 3, train_batch_size: 8 - min val loss: 0.6970743834972382
+lr: 0.0001, hidden_size: 1024, layer_num: 3, train_batch_size: 16 - min val loss: 0.7431460916996002
+lr: 0.0001, hidden_size: 1024, layer_num: 3, train_batch_size: 32 - min val loss: 0.8180791338284811
+lr: 0.0001, hidden_size: 1024, layer_num: 4, train_batch_size: 4 - min val loss: 0.6931201418240865
+lr: 0.0001, hidden_size: 1024, layer_num: 4, train_batch_size: 8 - min val loss: 0.6732267340024313
+lr: 0.0001, hidden_size: 1024, layer_num: 4, train_batch_size: 16 - min val loss: 0.7459978063901266
+lr: 0.0001, hidden_size: 1024, layer_num: 4, train_batch_size: 32 - min val loss: 0.7709415256977081
+lr: 0.0001, hidden_size: 2048, layer_num: 1, train_batch_size: 4 - min val loss: 0.8346356749534607
+lr: 0.0001, hidden_size: 2048, layer_num: 1, train_batch_size: 8 - min val loss: 0.8393775820732117
+lr: 0.0001, hidden_size: 2048, layer_num: 1, train_batch_size: 16 - min val loss: 0.8600562413533529
+lr: 0.0001, hidden_size: 2048, layer_num: 1, train_batch_size: 32 - min val loss: 0.8762230078379313
+lr: 0.0001, hidden_size: 2048, layer_num: 2, train_batch_size: 4 - min val loss: 0.6913183927536011
+lr: 0.0001, hidden_size: 2048, layer_num: 2, train_batch_size: 8 - min val loss: 0.7100459138552347
+lr: 0.0001, hidden_size: 2048, layer_num: 2, train_batch_size: 16 - min val loss: 0.754919429620107
+lr: 0.0001, hidden_size: 2048, layer_num: 2, train_batch_size: 32 - min val loss: 0.8195651670296987
+auto_ratio:0.2, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.5313243667284647
+auto_ratio:0.4, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.5376503169536591
+auto_ratio:0.6, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.5388865520556768
+auto_ratio:0.8, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.4695041278998057
+auto_ratio:1.0, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.5155893216530482
+Backup-V1: vehicle_count:100,  auto_ratio:0.2, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.7093791365623474
+Backup-V1: vehicle_count:100,  auto_ratio:0.4, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.41559967398643494
+Backup-V1: vehicle_count:100,  auto_ratio:0.6, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.505685605108738
+Backup-V1: vehicle_count:100,  auto_ratio:0.8, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.5168271362781525
+Backup-V1: vehicle_count:100,  auto_ratio:1.0, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.5106108486652374
+Backup-V1: vehicle_count:50,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.9108604590098063
+Backup-V1: vehicle_count:150,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.5076190680265427
+Backup-V1: vehicle_count:200,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.3838967851230076
+Backup-V1: vehicle_count:250,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.3923176109790802
+Backup-V1: vehicle_count:100,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.5310664971669515
+Generalization 100_0.5 for others Backup-V1: vehicle_count:50,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 1.9492689371109009
+Generalization 100_0.5 for others Backup-V1: vehicle_count:100,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.48920924464861554
+Generalization 100_0.5 for others Backup-V1: vehicle_count:150,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 1.4847988486289978
+Generalization 100_0.5 for others Backup-V1: vehicle_count:200,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 1.1841369015829903
+Generalization 100_0.5 for others Backup-V1: vehicle_count:250,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 1.2217037558555603
+Backup-V1: vehicle_count:250,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.39235261678695676
+Generalization 250_0.5 for others Backup-V1: vehicle_count:50,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 1.767450213432312
+Generalization 250_0.5 for others Backup-V1: vehicle_count:100,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 1.1700887481371562
+Generalization 250_0.5 for others Backup-V1: vehicle_count:150,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 1.0322601596514385
+Generalization 250_0.5 for others Backup-V1: vehicle_count:200,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.7234306420598712
+Generalization 250_0.5 for others Backup-V1: vehicle_count:250,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.3159259408712387
+Backup-V1: vehicle_count:100,  auto_ratio:1.0, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.5314997633298238
+Generalization 100_1.0 for others Backup-V1: vehicle_count:50,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 1.8370657364527385
+Generalization 100_1.0 for others Backup-V1: vehicle_count:100,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.9495579302310944
+Generalization 100_1.0 for others Backup-V1: vehicle_count:150,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 1.4322159091631572
+Generalization 100_1.0 for others Backup-V1: vehicle_count:200,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 1.1148155416761125
+Generalization 100_1.0 for others Backup-V1: vehicle_count:250,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 1.1719587445259094
+Train All: vehicle_count:100,  auto_ratio:1.0, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.4151627855996291
+Generalization all for others Backup-V1: vehicle_count:100,  auto_ratio:0.2, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.6333623230457306
+Generalization all for others Backup-V1: vehicle_count:100,  auto_ratio:0.4, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.3727611303329468
+Generalization all for others Backup-V1: vehicle_count:100,  auto_ratio:0.6, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.47612233459949493
+Generalization all for others Backup-V1: vehicle_count:100,  auto_ratio:0.8, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.4508599579334259
+Generalization 100_0.5 for others Backup-V1: vehicle_count:100,  auto_ratio:0.2, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 2.0063685178756714
+Generalization 100_0.5 for others Backup-V1: vehicle_count:100,  auto_ratio:0.4, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 1.2547148764133453
+Generalization 100_0.5 for others Backup-V1: vehicle_count:100,  auto_ratio:0.6, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 1.3428000211715698
+Generalization 100_0.5 for others Backup-V1: vehicle_count:100,  auto_ratio:0.8, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 1.167859935760498
+Generalization 100_0.5 for others Backup-V1: vehicle_count:100,  auto_ratio:1.0, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.9755542476971945
+Generalization 100_0.5 for others Backup-V1: vehicle_count:100,  auto_ratio:0.2, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.5736500918865204
+Generalization 100_0.5 for others Backup-V1: vehicle_count:100,  auto_ratio:0.4, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.3682926595211029
+Generalization 100_0.5 for others Backup-V1: vehicle_count:100,  auto_ratio:0.6, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.49782653898000717
+Generalization 100_0.5 for others Backup-V1: vehicle_count:100,  auto_ratio:0.8, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.4923339128494263
+Generalization 100_0.5 for others Backup-V1: vehicle_count:100,  auto_ratio:1.0, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.47880106667677563
+Generalization 100_0.5 for others Backup-V1: vehicle_count:50,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.8416106005509695
+Generalization 100_0.5 for others Backup-V1: vehicle_count:100,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.49758172035217285
+Generalization 100_0.5 for others Backup-V1: vehicle_count:150,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.438619131843249
+Generalization 100_0.5 for others Backup-V1: vehicle_count:200,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.31249781591551645
+Generalization 100_0.5 for others Backup-V1: vehicle_count:250,  auto_ratio:0.5, lr: 0.0001, hidden_size: 512, layer_num: 4, train_batch_size: 32 - min val loss: 0.32190263122320173
+layer test: lr: 0.0001, hidden_size: 512, layer_num: 5, train_batch_size: 32 - min val loss: 0.8528253734111786
+layer test: lr: 0.0001, hidden_size: 512, layer_num: 6, train_batch_size: 32 - min val loss: 0.8797475894292196
+layer test: lr: 0.0001, hidden_size: 512, layer_num: 7, train_batch_size: 32 - min val loss: 0.8363937040170034
+layer test: lr: 0.0001, hidden_size: 512, layer_num: 8, train_batch_size: 32 - min val loss: 0.8554094731807709
