@@ -28,7 +28,7 @@
 
 ## Datasets' Format Introduction
 
-![data_format](..\img\data_format.png)
+![data_format](https://github.com/RacerChen/OpenMixIntersection/tree/main/img)
 
 | r_n  | Type   | Meaning |
 | ---- | ------ | ------- |
